@@ -4,7 +4,7 @@
 ## Project Structure
 
 ### Pages
-```js
+```c
 📁 Page Title //Page Folder
 ├── 📄 README.md //Main file for the page, written in english.
 ├── 📄 README_[LANG].md //Translation of the main file in another language.
