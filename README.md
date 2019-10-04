@@ -4,16 +4,23 @@
 ## Project Structure
 
 ### Pages
-```c
-📁 Page Title // Page Folder
-├── 📄 README.md // Main file for the page, written in english.
-├── 📄 README_[LANG].md // Translation of the main file in another language.
-├── 📄 README_sv-SE.md // Example of a translation of the main file in swedish.
-├── 📁 Subpage // Subpage (Same Page Structure)
-|   ├── 📄 README.md
-├── 📁 Another Subpage
-|   ├── 📄 README.md
-|   ├── 📄 README_fr-FR.md
+```
+📁 wiki
+├── 📁 raw
+|   ├── 📄 README.md // Index File
+|   ├── 📄 README_[LANG].md // Translation of the main file in another language.
+|   ├── 📄 README_sv-SE.md // Example of a translation of the main file in swedish.
+|   ├── 📁 Page Title // Page Folder
+|   |   ├── 📄 README.md // Main file for the page, written in english.
+|   |   ├── 📁 Subpage // Subpage (Same Page Structure)
+|   |   |   ├── 📄 README.md
+|   |   |   ├── 📄 README_fr-FR.md
+|   |   ├── 📁 Another Subpage
+|   |   |   ├── 📄 README.md
+|   ├── 📁 Another Page
+|   |   ├── 📄 README.md
+|   |   ├── 📁 Subpage
+|   |   |   ├── 📄 README.md
 ```
 
 > [LANG] must be replaced by the language used see **Landcode Table** in the `resources` section below.
