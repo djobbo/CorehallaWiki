@@ -6,6 +6,7 @@
 ### Pages
 ```
 📁 wiki
+├── 📄 README.md // Wiki info file (this file)
 ├── 📁 raw
 |   ├── 📄 README.md // Index File
 |   ├── 📄 README_[LANG].md // Translation of the main file in another language.
