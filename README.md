@@ -5,11 +5,11 @@
 
 ### Pages
 ```c
-📁 Page Title //Page Folder
-├── 📄 README.md //Main file for the page, written in english.
-├── 📄 README_[LANG].md //Translation of the main file in another language.
-├── 📄 README_sv-SE.md //Example of a translation of the main file in swedish.
-├── 📁 Subpage //Subpage (Same Page Structure)
+📁 Page Title // Page Folder
+├── 📄 README.md // Main file for the page, written in english.
+├── 📄 README_[LANG].md // Translation of the main file in another language.
+├── 📄 README_sv-SE.md // Example of a translation of the main file in swedish.
+├── 📁 Subpage // Subpage (Same Page Structure)
 |   ├── 📄 README.md
 ├── 📁 Another Subpage
 |   ├── 📄 README.md
