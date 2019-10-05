@@ -38,7 +38,14 @@ TODO: Description
         <td><img src="/assets/images/icons/legends/bodvar.png" alt="Bodvar" width="48px" height="48px"></td>
         <td><img src="/assets/images/icons/legends/cassidy.png" alt="Cassidy" width="48px" height="48px"></td>
         <td><img src="/assets/images/icons/legends/scarlet.png" alt="Scarlet" width="48px" height="48px"></td>
-        <td><img src="/assets/images/icons/legends/orion.png" alt="Orion" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/gnash.png" alt="Gnash" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/sentinel.png" alt="Sentinel" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/teros.png" alt="Teros" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/yumiko.png" alt="Yumiko" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/kor.png" alt="Kor" width="48px" height="48px"></td>
+        <td>?</td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/thor.png" alt="Thor" width="48px" height="48px"></td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Sword.png" alt="Sword" width="48px" height="48px"></td>
@@ -47,35 +54,162 @@ TODO: Description
         <td><img src="/assets/images/icons/legends/thatch.png" alt="Thatch" width="48px" height="48px"></td>
         <td><img src="/assets/images/icons/legends/sir roland.png" alt="Sir Roland" width="48px" height="48px"></td>
         <td><img src="/assets/images/icons/legends/hattori.png" alt="Hattori" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/asuri.png" alt="Asuri" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/jhala.png" alt="Jhala" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/koji.png" alt="Koji" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/val.png" alt="Val" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/jiro.png" alt="Jiro" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/sidra.png" alt="Sidra" width="48px" height="48px"></td>
+        <td>?</td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Blasters.png" alt="Blasters" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/cassidy.png" alt="Cassidy" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/thatch.png" alt="Thatch" width="48px" height="48px"></td>
+        <td>/</td>
+        <td><img src="/assets/images/icons/legends/lord vraxx.png" alt="Lord Vraxx" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/ada.png" alt="Ada" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/lucien.png" alt="Lucien" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/barraza.png" alt="Barraza" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/diana.png" alt="Diana" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/cross.png" alt="Cross" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/nix.png" alt="Nix" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/isaiah.png" alt="Isaiah" width="48px" height="48px"></td>
+        <td>?</td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Rocket Lance.png" alt="Rocket Lance" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/scarlet.png" alt="Scarlet" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/sir roland.png" alt="Sir Roland" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/lord vraxx.png" alt="Lord Vraxx" width="48px" height="48px"></td>
+        <td>/</td>
+        <td><img src="/assets/images/icons/legends/orion.png" alt="Orion" width="48px" height="48px"></td>
+        <td>S :(</td>
+        <td><img src="/assets/images/icons/legends/ulgrim.png" alt="Ulgrim" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/vector.png" alt="Vector" width="48px" height="48px"></td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/artemis.png" alt="Artemis" width="48px" height="48px"></td>
+        <td>?</td>
+        <td>?</td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Spear.png" alt="Spear" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/gnash.png" alt="Gnash" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/hattori.png" alt="Hattori" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/ada.png" alt="Ada" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/orion.png" alt="Orion" width="48px" height="48px"></td>
+        <td>/</td>
+        <td><img src="/assets/images/icons/legends/queen nai.png" alt="Queen Nai" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/brynn.png" alt="Brynn" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/kaya.png" alt="Kaya" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/wu shang.png" alt="Wu Shang" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/mirage.png" alt="Mirage" width="48px" height="48px"></td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/dusk.png" alt="Dusk" width="48px" height="48px"></td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Katars.png" alt="Katars" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/sentinel.png" alt="Sentinel" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/asuri.png" alt="Asuri" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/lucien.png" alt="Lucien" width="48px" height="48px"></td>
+        <td>S :(</td>
+        <td><img src="/assets/images/icons/legends/queen nai.png" alt="Queen Nai" width="48px" height="48px"></td>
+        <td>/</td>
+        <td><img src="/assets/images/icons/legends/ragnir.png" alt="Ragnir" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/ember.png" alt="Ember" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/caspian.png" alt="Caspian" width="48px" height="48px"></td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/lin fei.png" alt="Lin Fei" width="48px" height="48px"></td>
+        <td>?</td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Axe.png" alt="Axe" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/teros.png" alt="Teros" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/jhala.png" alt="Jhala" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/barraza.png" alt="Barraza" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/ulgrim.png" alt="Ulgrim" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/brynn.png" alt="Brynn" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/ragnir.png" alt="Ragnir" width="48px" height="48px"></td>
+        <td>/</td>
+        <td><img src="/assets/images/icons/legends/azoth.png" alt="Azoth" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/rayman.png" alt="Rayman" width="48px" height="48px"></td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/xull.png" alt="Xull" width="48px" height="48px"></td>
+        <td>?</td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Bow.png" alt="Bow" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/yumiko.png" alt="Yumiko" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/koji.png" alt="Koji" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/diana.png" alt="Diana" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/vector.png" alt="Vector" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/kaya.png" alt="Kaya" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/ember.png" alt="Ember" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/azoth.png" alt="Azoth" width="48px" height="48px"></td>
+        <td>/</td>
+        <td><img src="/assets/images/icons/legends/zariel.png" alt="Zariel" width="48px" height="48px"></td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Gauntlets.png" alt="Gauntlets" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/kor.png" alt="Kor" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/val.png" alt="Val" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/cross.png" alt="Cross" width="48px" height="48px"></td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/wu shang.png" alt="Wu Shang" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/caspian.png" alt="Caspian" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/rayman.png" alt="Rayman" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/zariel.png" alt="Zariel" width="48px" height="48px"></td>
+        <td>/</td>
+        <td><img src="/assets/images/icons/legends/mordex.png" alt="Mordex" width="48px" height="48px"></td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/petra.png" alt="Petra" width="48px" height="48px"></td>
     </tr>
     <tr>
-        <td><img src="/assets/images/icons/weapons/Scythe.png" alt="ScytheScythe" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/weapons/Scythe.png" alt="Scythe" width="48px" height="48px"></td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/jiro.png" alt="Jiro" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/nix.png" alt="Nix" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/artemis.png" alt="Artemis" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/mirage.png" alt="Mirage" width="48px" height="48px"></td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/mordex.png" alt="Mordex" width="48px" height="48px"></td>
+        <td>/</td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/fait.png" alt="Fait" width="48px" height="48px"></td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Cannon.png" alt="Cannon" width="48px" height="48px"></td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/sidra.png" alt="Sidra" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/isaiah.png" alt="Isaiah" width="48px" height="48px"></td>
+        <td>?</td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/lin fei.png" alt="Lin Fei" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/xull.png" alt="Xull" width="48px" height="48px"></td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+        <td>/</td>
+        <td>?</td>
     </tr>
     <tr>
         <td><img src="/assets/images/icons/weapons/Orb.png" alt="Orb" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/thor.png" alt="Thor" width="48px" height="48px"></td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/dusk.png" alt="Dusk" width="48px" height="48px"></td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+        <td><img src="/assets/images/icons/legends/petra.png" alt="Petra" width="48px" height="48px"></td>
+        <td><img src="/assets/images/icons/legends/fait.png" alt="Fait" width="48px" height="48px"></td>
+        <td>?</td>
+        <td>/</td>
     </tr>
 </table>
