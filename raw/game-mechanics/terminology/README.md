@@ -37,28 +37,120 @@
 - [Weapon] **Ground Pound** *(abbr. **GP**)* - the attack performed by pressing the heavy attack button while holding down in the air. This move will typically travel straight downwards until the attack button is released or until meeting the ground or an opponent.
     > Ex: Spear Ground Pound *(abbr. Spear GP)*
 
-## Movement Terminology
+## Tech Terminology
 
-### Basic Movement
-
+### Basic Tech
 - **Moving** - *TODO: Description/Inputs*
 - **Jump** - *TODO: Description/Inputs*
+    <details>
+    <summary><i>Advanced Info</i></summary>
+    <ul>
+        <li>2 Startup Frames</li>
+        <li>Can be cancelled into an Attack or Dodge on Frame 2</li>
+        <li>Can be cancelled into another Jump, or a Fastfall on Frame 12</li>
+        <li>Does <strong>NOT</strong> snap to platforms</li>
+    </ul>
+    </details>
+- **Landing** - *TODO: Description/Inputs*
+    <details>
+    <summary><i>Advanced Info</i></summary>
+    <ul>
+        <li>4 Landing lag Frames before you can Jump, Dash or Attack</li>
+        <li>Landing lag <strong>CAN</strong> be cancelled if landing with an Aerial Attack (but not a dash, backdash, or jump)</li>
+        <li>Landing lag <strong>CAN</strong> be cancelled if snapping to the ground with a Grounded Attack</li>
+    </ul>
+    </details>
+- **Fastfall** - *TODO: Description/Inputs*
+    <details>
+    <summary><i>Advanced Info</i></summary>
+    <ul>
+        <li>2 Frames of Startup</li>
+        <li>Can be cancelled on Frame 1, but will still fastfall on Frame 3</li>
+        <li>Can be cancelled on Frame 1 by a Jump</li>
+        <li>Can be stopped at <strong>any time</strong> by letting go of down (will return you to normal fall speed)</li>
+        <li>will be accelerated into, and entered automatically, while moving downwards (if holding down) for more than 16 Frames (34 Frames after reaching peak jump height)</li>
+    </ul>
+    </details>
+- **Wall Jump** - *TODO: Description/Inputs*
+    <details>
+    <summary><i>Advanced Info</i></summary>
+    <ul>
+        <li>2 Startup Frames</li>
+        <li><strong>CAN</strong> be cancelled into a Fastfall, or another Jump, on Frame 13</li>
+        <li><strong>CAN</strong> be cancelled into an Attack or Dodge on Frame 3</li>
+    </ul>
+    </details>
+- **Ground Dodge** - *TODO: Description/Inputs*
+    <details>
+    <summary><i>Advanced Info</i></summary>
+    <ul>
+        <li>2 Startup Frames</li>
+        <li>16 Invulnerability Frames, which <strong>CANNOT</strong> be cancelled</li>
+        <li>18 Active Frames Overall</li>
+        <li>0 Recovery Frames</li>
+        <li>Retains momentum from Movement</li>
+    </ul>
+    </details>
 - **Spot Dodge** - *TODO: Description/Inputs*
+    <details>
+    <summary><i>Advanced Info</i></summary>
+    <ul>
+        <li>2 Startup Frames</li>
+        <li>20 Invulnerability Frames</li>
+        <li>22 Active Frames Overall</li>
+        <li>0 Recovery Frames</li>
+        <li>Completely <strong>Stops</strong> player momentum</li>
+        <li><strong>CAN</strong> be cancelled with an Attack between Frames 3-18 (the last 4 Frames will buffer your next Attack</li>
+        <li>Cancelling a Spot Dodge with an attack will perform a Gravity Cancel</li>
+    </ul>
+    </details>
 - **Directional dodge** - *TODO: Description/Inputs*
+    <details>
+    <summary><i>Advanced Info</i></summary>
+    <ul>
+        <li>2 Startup Frames</li>
+        <li>12 Invulnerability Frames</li>
+        <li>14 Active Frames Overall</li>
+        <li>0 Recovery Frames</li>
+        <li><strong>Stops</strong> and <strong>Overrides</strong> the player's current momentum</li>
+        <li><strong>CAN</strong> be cancelled with an Attack between Frames 3-8 // TODO: Verification needed</li>
+        <li>Cancelling a Directional Dodge with an attack will perform a Directional Gravity Cancel</li>
+    </ul>
+    </details>
 - **Dash** - *TODO: Description/Inputs*
-- **Fast Fall** - *TODO: Description/Inputs*
+    <details>
+    <summary><i>Advanced Info</i></summary>
+    <ul>
+        <li>2 Startup Frames</li>
+        <li><strong>WILL</strong> snap to platforms, if at platform cancel height</li>
+        <li><strong>CAN</strong> be cancelled into a forward dash on Frame 16</li>
+        <li><strong>CAN</strong> be cancelled into a backdash on Frame 11</li>
+        <li><strong>CAN</strong> be cancelled into an Attack or Dash Jump on Frame 3</li>
+        <li><strong>CAN</strong> be cancelled into a Dodge on Frame 7</li>
+        <li>Puts a Player in Sprint state</li>
+    </ul>
+    </details>
+- **Backdash** - *TODO: Description/Inputs*
+    <details>
+    <summary><i>Advanced Info</i></summary>
+    <ul>
+        <li>6 Startup Frames</li>
+        <li><strong>WILL</strong> snap to platforms, if at platform cancel height</li>
+        <li><strong>CAN ONLY</strong> be performed within 5 Frames of pressing an opposite direction (9 Frames if holding down)</li>
+        <li>Reversing facing <strong>WILL</strong> cause a Backdash in <strong>BOTH</strong> directions, only taking reversing for 1 Frame to enter backdash state</li>
+        <li>Reversing facing 3x <strong>WILL</strong> negate Backdash window (letting you Dash either direction by Frame 3, if input Frame Perfect)</li>
+        <li><strong>CAN</strong> be cancelled into an Attack, Dodge or Dash Jump on Frame 13</li>
+    </ul>
+    </details>
 
-### Advanced Movement
-
+### Advanced Tech
 #### Dodge Tech
-
 - **Chase Dodge** - *TODO: Description/Inputs*
 - **Dodge Sliding** - *TODO: Description/Inputs*
 - **Dodge Momentum Cancel** - *TODO: Description/Inputs*
 - **Wall Wave Dash** - *TODO: Description/Inputs*
 
 #### Dash Tech
-
 - **Dash Momentum Cancel/Dash Break** - *TODO: Description/Inputs*
 - **Dash Jump** - *TODO: Description/Inputs*
 - **Dash Jump Fast Fall** - *TODO: Description/Inputs*
@@ -68,12 +160,10 @@
 - **Empty Ledge Cancel** - *TODO: Description/Inputs*
 
 #### Sprint Tech
-
 - **Sprint** - *TODO: Description/Inputs*
 - **Sprint Jump** - *TODO: Description/Inputs*
 
-## Special Techniques
-
+### Misc
 - **Gravity Cancel** - *TODO: Description/Inputs*
 - **Slide Charging** - *TODO: Description/Inputs*
 - **Ledge Cancel** - *TODO: Description/Inputs*
