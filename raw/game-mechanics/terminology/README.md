@@ -20,23 +20,22 @@
 - [Weapon] **Down Air** *(abbr. **DAir**)* - the attack performed by pressing the light attack button while airborne and holding the down button.
     > Ex: Katar Down Air *(abbr. Katar DAir)*
 
-### Heavy Attacks (Signatures)
+### Heavy Attacks
 
-> **Signature** *(abbr. **Sig**)* – same as **Heavy Attack**. Each Legend has six unique Signatures.
-
-- [Legend] [Weapon] **Neutral Signature/Heavy** *(abbr. **NSig**)* - the attack performed by pressing the heavy attack button while standing on the ground and not pressing a direction or, in certain configurations, holding up. This will be one of the Legend's signature moves if holding a weapon.
-    > Ex: Ada Neutral Spear Sig, abbr. Ada Spear Nsig or Ada Spear NHeavy.
-- [Legend] [Weapon] **Side Signature/Heavy** *(abbr. **SSig**)* - the attack performed by pressing the heavy attack button while standing on the ground and holding left or right. This will be one of the Legend's signature moves if holding a weapon.
-    > Ex: Scarlet Lance Side Sig.
-- [Legend] [Weapon] **Down Signature/Heavy** *(abbr. **DSig**)* - the attack performed by pressing the heavy attack button while standing on the ground and holding down. This will be one of the Legend's signature moves if holding a weapon.
-    > Ex: Cassidy Hammer Down Sig or Cassidy Hammer Down Heavy abbr. Cassidy Hammer DSig or Cassidy Hammer DHeavy.
+> **Signature** *(abbr. **Sig**)* – same as **Heavy Attack** when holding a weapon. Each Legend has six unique Signatures.
+- [Legend] [Weapon] **Neutral Signature** *(abbr. **NSig**)* - the attack performed by pressing the heavy attack button while standing on the ground and not pressing a direction or, in certain configurations, holding up. This will be one of the Legend's signature moves if holding a weapon.
+    > Ex: Ada Spear Neutral Signature *(abbr. Ada Spear Nsig)* Spear Nsig or Ada Spear NHeavy.
+- [Legend] [Weapon] **Side Signature** *(abbr. **SSig**)* - the attack performed by pressing the heavy attack button while standing on the ground and holding left or right. This will be one of the Legend's signature moves if holding a weapon.
+    > Ex: Scarlet Lance Side Signature *(abbr. Scarlet Lance SSig)*
+- [Legend] [Weapon] **Down Signature** *(abbr. **DSig**)* - the attack performed by pressing the heavy attack button while standing on the ground and holding down. This will be one of the Legend's signature moves if holding a weapon.
+    > Ex: Cassidy Hammer Down Signature *(abbr. Cassidy Hammer DSig)*
 
 ### Heavy Aerial Attacks
 
-- **Recovery** *(abbr. **Rec**)* - the attack performed by pressing the heavy attack button while airborne and not holding down. This move is useful when trying to recover (get back to solid ground) after being knocked off the stage, thus the name. This move has limited uses.
-    > Ex: Sword Recovery.
-- **Ground Pound** *(abbr. **GP**)* - the attack performed by pressing the heavy attack button while holding down in the air. This move will typically travel straight downwards until the attack button is released or until meeting the ground or an opponent.
-    > Ex: Spear Ground Pound, abbr. Spear GP.
+- [Weapon] **Recovery** *(abbr. **Rec**)* - the attack performed by pressing the heavy attack button while airborne and not holding down. This move is useful when trying to recover (get back to solid ground) after being knocked off the stage, thus the name. This move has limited uses.
+    > Ex: Sword Recovery *(abbr. Sword Rec)*
+- [Weapon] **Ground Pound** *(abbr. **GP**)* - the attack performed by pressing the heavy attack button while holding down in the air. This move will typically travel straight downwards until the attack button is released or until meeting the ground or an opponent.
+    > Ex: Spear Ground Pound *(abbr. Spear GP)*
 
 ## Movement Terminology
 
