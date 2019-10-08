@@ -7,11 +7,16 @@
 ```
 📁 wiki
 ├── 📄 README.md // Wiki info file (this file)
-├── 📁 raw
-|   ├── 📄 README.md // Index File
+├── 📁 assets
+|   ├── 📁 images
+|   |   ├── 📁 icons
+|   |   ├── 📁 logos
+|   |   ├── 📁 ranked-banners
+├── 📁 raw // Raw .md wiki pages
+|   ├── 📄 README.md // Index File (Main Page)
 |   ├── 📄 README_[LANG].md // Translation of the main file in another language.
 |   ├── 📄 README_sv-SE.md // Example of a translation of the main file in swedish.
-|   ├── 📁 Page Title // Page Folder
+|   ├── 📁 about
 |   |   ├── 📄 README.md // Main file for the page, written in english.
 |   |   ├── 📁 Subpage // Subpage (Same Page Structure)
 |   |   |   ├── 📄 README.md
