@@ -1,0 +1,24 @@
+{
+    "name": "corehallawiki",
+    "version": "0.0.1",
+    "description": "Brawlhalla Wiki",
+    "main": "server.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlfieGoldson/CorehallaWiki.git"
+    },
+    "author": "Alfie (twitter/AlfieBH_)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AlfieGoldson/CorehallaWiki/issues"
+    },
+    "homepage": "https://github.com/AlfieGoldson/CorehallaWiki#readme",
+    "dependencies": {}
+}
