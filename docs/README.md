@@ -1,10 +1,10 @@
-# Welcome to the (Un)Official Brawlhalla Wiki!
+# Home
 
 ## About Brawlhalla
 
 History's baddest-ass legends from past and future eras meet in an eternal tournament of champions. Bragging rights, infinite mead and the pleasure of a beatdown are up for grabs, so grab your weapons and ready up!<br>
 
-Brawlhalla is a 2D platform fighting brawler game for PC and PS4. It features simple controls and an intuitive fighting system that allows beginners to pick up the game quickly, while giving long-term players the chance to become experts of the finer mechanics of the game, and deal out a pummelling worthy of the legends themselves.<br>
+Brawlhalla is a 2D platform fighting brawler game for PC, PS4, XBox and Nintendo Switch. It features simple controls and an intuitive fighting system that allows beginners to pick up the game quickly, while giving long-term players the chance to become experts of the finer mechanics of the game, and deal out a pummelling worthy of the legends themselves.<br>
 
 Each legend has a unique combination of two weapons, out of a selection of weapons also available to other legends. This means players can easily switch between legends without having to relearn attacks and combos, so no game has to feel the same as any other. Moreover, no two legends have the same stat values and each legend has a selection of character-specific signature attacks, meaning each legend is different and unique. With this added to the Lore and backstory behind each legend's journey to the eternal tournament, every character has its own personality and feel of play.<br>
 
@@ -16,6 +16,18 @@ TODO: Description
 
 ## Legends / Weapons
 
+<WeaponsComboTable/>
+
+### Legends
+
+There are currently 47 Legends available in Brawlhalla.
+<div>
+
+</div>
+
+### Weapons
+
+### Weapon Combinations Table
 <table style="text-align:center">
     <tr>
         <td style="padding: 4px;">/</td>

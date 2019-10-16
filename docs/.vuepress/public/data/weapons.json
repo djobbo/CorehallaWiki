@@ -1,0 +1,86 @@
+[
+    {
+        "weapon_id": 0,
+        "weapon_name_key": "Hammer",
+        "bio_name": "Hammer",
+        "legends": [3, 4, 7, 12, 15, 16, 28, 36, 49],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 1,
+        "weapon_name_key": "Sword",
+        "bio_name": "Sword",
+        "legends": [3, 10, 11, 13, 20, 24, 26, 30, 39, 43],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 2,
+        "weapon_name_key": "Pistol",
+        "bio_name": "Blasters",
+        "legends": [4, 6, 13, 14, 9, 21, 25, 32, 34, 41],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 3,
+        "weapon_name_key": "RocketLance",
+        "bio_name": "Rocket Lance",
+        "legends": [5, 6, 11, 12, 22, 37, 51],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 4,
+        "weapon_name_key": "Spear",
+        "bio_name": "Spear",
+        "legends": [5, 7, 8, 10, 14, 19, 29, 33, 42, 47],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 5,
+        "weapon_name_key": "Katar",
+        "bio_name": "Katars",
+        "legends": [8, 15, 9, 20, 18, 31, 38, 44],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 6,
+        "weapon_name_key": "Axe",
+        "bio_name": "Axe",
+        "legends": [16, 19, 21, 23, 22, 26, 31, 40, 46],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 7,
+        "weapon_name_key": "Bow",
+        "bio_name": "Bow",
+        "legends": [18, 23, 24, 25, 36, 42, 45, 51],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 8,
+        "weapon_name_key": "Fists",
+        "bio_name": "Gauntlets",
+        "legends": [28, 29, 30, 32, 35, 38, 45, 46, 50],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 9,
+        "weapon_name_key": "Scythe",
+        "bio_name": "Scythe",
+        "legends": [33, 34, 35, 37, 43, 48],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 10,
+        "weapon_name_key": "Cannon",
+        "bio_name": "Cannon",
+        "legends": [39, 40, 41, 44],
+        "release_date": "N/A"
+    },
+    {
+        "weapon_id": 11,
+        "weapon_name_key": "Orb",
+        "bio_name": "Orb",
+        "legends": [47, 48, 49, 50],
+        "release_date": "N/A"
+    }
+]

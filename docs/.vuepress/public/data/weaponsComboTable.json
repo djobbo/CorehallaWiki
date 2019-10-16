@@ -1,0 +1,15 @@
+[
+    [ "N_A", "Hammer", "Sword", "Pistol", "RocketLance", "Spear", "Katar", "Axe", "Bow", "Fists", "Scythe", "Cannon", "Orb" ],
+    [ "Hammer", "N_A", "bodvar", "cassidy", "scarlet", "gnash", "sentinel", "teros", "yumiko", "kor", "?", "?", "thor" ],
+    [ "Sword", "bodvar", "N_A", "thatch", "sir roland", "hattori", "asuri", "jhala", "koji", "val", "jiro", "sidra", "?" ],
+    [ "Pistol", "cassidy", "thatch", "N_A", "lord vraxx", "ada", "lucien", "barraza", "diana", "cross", "nix", "isaiah", "?" ],
+    [ "RocketLance", "scarlet", "sir roland", "lord vraxx", "N_A", "orion", "?*", "ulgrim", "vector", "?", "artemis", "?", "?" ],
+    [ "Spear", "gnash", "hattori", "ada", "orion", "N_A", "queen nai", "brynn", "kaya", "wu shang", "mirage", "?", "dusk" ],
+    [ "Katar", "sentinel", "asuri", "lucien", "?*", "queen nai", "N_A", "ragnir", "ember", "caspian", "?", "lin fei", "?" ],
+    [ "Axe", "teros", "jhala", "barraza", "ulgrim", "brynn", "ragnir", "N_A", "azoth", "rayman", "?", "xull", "?" ],
+    [ "Bow", "yumiko", "koji", "diana", "vector", "kaya", "ember", "azoth", "N_A", "zariel", "?", "?", "?" ],
+    [ "Fists", "kor", "val", "cross", "?", "wu shang", "caspian", "rayman", "zariel", "N_A", "mordex", "?", "petra" ],
+    [ "Scythe", "?", "jiro", "nix", "artemis", "mirage", "?", "?", "?", "mordex", "N_A", "?", "fait" ],
+    [ "Cannon", "?", "sidra", "isaiah", "?", "?", "lin fei", "xull", "?", "?", "?", "N_A", "?" ],
+    [ "Orb", "thor", "?", "?", "?", "dusk", "?", "?", "?", "petra", "fait", "?", "N_A" ]
+ ]
