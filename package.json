@@ -20,5 +20,8 @@
         "url": "https://github.com/AlfieGoldson/CorehallaWiki/issues"
     },
     "homepage": "https://github.com/AlfieGoldson/CorehallaWiki#readme",
-    "dependencies": {}
+    "dependencies": {},
+    "devDependencies": {
+        "vuepress": "^1.2.0"
+    }
 }
